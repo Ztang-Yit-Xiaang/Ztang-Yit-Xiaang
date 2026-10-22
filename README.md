@@ -32,7 +32,7 @@
 |---|---|
 | 🗺️ [Weather-aware travel itinerary optimization](https://github.com/Ztang-Yit-Xiaang/weather-aware-travel-itinerary-optimization) | ML + operations research to maximize attraction utility under time, travel and congestion constraints |
 | 📐 [mathproof-skill](https://github.com/Ztang-Yit-Xiaang/mathproof-skill) | AI agent skill that proves or disproves math claims and checks them in Lean 4 + Mathlib |
-| ⌨️ [Ruianese Typing Method](https://github.com/Ztang-Yit-Xiaang/Ruianese_Tying_Method) | Rime input method for the Rui'an dialect (Southern Wu) with standardized Latinization |
+| ⌨️ [Ruianese Typing Method](https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method) | Rime input method for the Rui'an dialect (Southern Wu) with standardized Latinization |
 | 🧲 [NeuroMagIK](https://github.com/Ztang-Yit-Xiaang/NeuroMagIK-Reverse-Neural-Modeling-3D-Magnetic-Pose-Reconstruction) | Neural models for 3D magnetic pose reconstruction in medical robots (CUHK SURP) |
 | 🧬 [Sparse PCA for gene expression](https://github.com/Ztang-Yit-Xiaang/Sparse-PCA-for-Gene-Expression-Analysis) | PCA vs. Sparse PCA to find interpretable gene subsets for breast cancer analysis |
 | 🔢 [Hutch++ trace estimation](https://github.com/Ztang-Yit-Xiaang/Matrix-vector_queries_estimation) | Three variants of Hutch++ applied to large datasets |

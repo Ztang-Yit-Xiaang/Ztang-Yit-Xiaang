@@ -16,6 +16,21 @@
 - 🗣️ Preserving the Rui'an dialect in the digital age with a Rime-based input method
 - 📫 Open to research collaborations and internships
 
+### 🌏 Spotlight: Ruianese Typing Method (瑞安話輸入法)
+
+<a href="https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ztang-Yit-Xiaang&repo=Ruianese_Typing_Method&theme=tokyonight&hide_border=true" alt="Ruianese Typing Method" />
+</a>
+
+A [Rime](https://rime.im/)-based input method for the **Rui'an dialect** (瑞安話, Wenzhounese, Southern Wu), so speakers can type their own language.
+
+- 🔤 Standardized romanization covering initials, finals and tones 1–8
+- 📚 Syllable dictionary built from valid initial–final pairs
+- 🧩 Expandable character dictionary through TSV files
+- 🤝 Contributions welcome. Help preserve Rui'an in the digital age!
+
+<br clear="right"/>
+
 ### 🛠️ Tech stack
 
 <p>
@@ -34,7 +49,7 @@
 | 📐 [mathproof-skill](https://github.com/Ztang-Yit-Xiaang/mathproof-skill) | AI agent skill that proves or disproves math claims and checks them in Lean 4 + Mathlib |
 | ⌨️ [Ruianese Typing Method](https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method) | Rime input method for the Rui'an dialect (Southern Wu) with standardized Latinization |
 | 🧲 [NeuroMagIK](https://github.com/Ztang-Yit-Xiaang/NeuroMagIK-Reverse-Neural-Modeling-3D-Magnetic-Pose-Reconstruction) | Neural models for 3D magnetic pose reconstruction in medical robots (CUHK SURP) |
-| 🧬 [Sparse PCA for gene expression](https://github.com/Ztang-Yit-Xiaang/Sparse-PCA-for-Gene-Expression-Analysis) | PCA vs. Sparse PCA to find interpretable gene subsets for breast cancer analysis |
+| ⚙️ [PyGRANSO](https://github.com/Ztang-Yit-Xiaang/PyGRANSO) (contribution) | Added a Torch-OSQP dense reference QP solver backend to PyGRANSO, with stability and release-readiness evidence ([upstream PR #63](https://github.com/sun-umn/PyGRANSO/pull/63)) |
 | 🔢 [Hutch++ trace estimation](https://github.com/Ztang-Yit-Xiaang/Matrix-vector_queries_estimation) | Three variants of Hutch++ applied to large datasets |
 
 ### 📊 GitHub stats
